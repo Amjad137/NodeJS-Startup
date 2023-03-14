@@ -9,7 +9,8 @@ http
     res.end();
   })
   .listen(port, ()=> {
-    console.log(`The Server is started on ${port}`);
+    console.log(`The Server is started on Port: ${port}`);
   });
 
 //   http://localhost:2220
+//npm run amjad
