@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "Nodemon": "nodemon server.js",
+    "start": "node server.js",
+    "amjad": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amjad137/NodeJS-Startup.git"
+  },
+  "author": "Amjad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amjad137/NodeJS-Startup/issues"
+  },
+  "homepage": "https://github.com/Amjad137/NodeJS-Startup#readme",
+  "dependencies": {
+    "@types/node": "^18.15.3",
+    "nodemon": "^2.0.21"
+  }
+}
